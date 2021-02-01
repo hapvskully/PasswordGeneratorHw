@@ -4,5 +4,4 @@ this password generator works with no errors to generate a password between 8-20
 
 # Screenshot
 
-![Password Generator image]()
-Format: ![Alt Text](/PasswordGenerator/PasswordGeneratorImage.png)
+![password generator](/PasswordGeneratorHw/PasswordGeneratorImage.png)
